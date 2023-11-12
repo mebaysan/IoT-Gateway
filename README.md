@@ -4,6 +4,8 @@ This is an example app to simulate IoT Gateway for writing sensor data into Infl
 
 [Docker Image on Docker Hub](https://hub.docker.com/r/mebaysan/iot-gw)
 
+[YouTube anlatım](https://youtu.be/U45_M-uFRBo)
+
 # ENV Variables
 
 You can check [`settings.py`](src/settings.py) file to see all env variables. If you provide them in OS Env, they will be overriden.
